@@ -36,4 +36,4 @@ Issue переводится в статус Closed для тех докладо
 
 
 ## Зачем выступать на митапах и конференциях
-Довольно хорошо [на этот вопрос ответили увлекающиеся питоном из Питера](https://github.com/PiterPy-Meetup/guides/blob/master/speakers.md).
+Довольно хорошо [на этот вопрос ответили увлекающиеся питоном из Питера](https://github.com/PiterPy-Meetup/guides/blob/master/speakers.md)
